@@ -47,6 +47,7 @@ text = "all zip files are zipped"
 # ENTER CODE BELOW HERE
 
 zip1 = text.find('zip')
+print zip1
 
 zip2 = text.find('zip', zip1 +1)
 
