@@ -26,4 +26,4 @@ def square(s):
     t = s * s
     return t
     
-print square(5)
+# print square(5)
