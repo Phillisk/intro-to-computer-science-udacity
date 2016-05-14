@@ -16,9 +16,9 @@ def factorial(n):
 
 
 
-print factorial(4)
-#>>> 24
-print factorial(5)
+# print factorial(4)
+# #>>> 24
+# print factorial(5)
 #>>> 120
-print factorial(6)
+#print factorial(6)
 #>>> 720
