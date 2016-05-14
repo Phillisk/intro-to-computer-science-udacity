@@ -18,7 +18,7 @@ def print_numbers(a):
         print i
                   
    
-print print_numbers(3)
-#>>> 1
-#>>> 2
-#>>> 3
+# print print_numbers(3)
+# #>>> 1
+# #>>> 2
+# #>>> 3
