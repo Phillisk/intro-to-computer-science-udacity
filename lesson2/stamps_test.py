@@ -13,8 +13,18 @@
 
 def stamps(n):
     x = n/5
-    y = (n%5)/2
-    z = y%2
+    if n%5 == 2:
+        y = 1
+        z = 0
+        
+    elif n % 5 == 1:
+        y = 0
+        z = 1
+        
+    else:
+        y = (n%5)/2
+        z = y%2
+        
     return x, y, z
     
 
